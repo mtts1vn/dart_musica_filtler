@@ -1,2 +1,2 @@
 # dart_musica_filtler
-Exemplo em Dart de lista de músicas associadas a álbuns fictícios, com filtragem e exibição no console. Projeto didático e prático.
+Este repositório apresenta um exemplo em Dart de como criar e exibir uma lista de músicas associadas a álbuns fictícios. O código utiliza classes para representar cada música e seu respectivo álbum. Além disso, inclui uma função para filtrar e exibir as músicas de um álbum específico. As informações são exibidas de forma organizada no console. É um projeto simples e didático para demonstrar conceitos básicos de Dart.
